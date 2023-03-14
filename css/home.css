@@ -30,6 +30,9 @@
     z-index: 2;
 }
 .my-img-bg{
-    z-index: 1;
-    top: 10px;
+    position: absolute;
+    right: 396px;
+    top: 66px;
+    z-index: -1;
+    transform: rotate(11deg);
 }
