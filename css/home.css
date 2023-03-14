@@ -1,0 +1,12 @@
+.home{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.cv-btn button{
+    background-color: yellowgreen;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    
+}
