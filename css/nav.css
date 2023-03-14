@@ -1,9 +1,15 @@
-*{
+body{
     background-color: #3b0063;
+    background-image: url("../img/background.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    
 }
 
 .nav-ber {
-    background-color: #a7a7a72c;
+    background-color: #a7a7a750;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -22,10 +28,11 @@
     font-size: 20px;
     padding: 12px;
     transition: 0.2s;
-    border-radius: 10px 30px;
+    border-radius: 5px 15px;
     
 }
 
 .nav-ber a:hover{
-    background-color: #e48100;
+    background-color: #ffea00;
+    color: black;
 }
