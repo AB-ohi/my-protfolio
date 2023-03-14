@@ -1,0 +1,27 @@
+*{
+    background-color: #3b0063;
+}
+
+.nav-ber {
+    background-color: #a7a7a72c;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 10vh;
+}
+
+.nav-ber a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family: 'Nunito', sans-serif;
+    background: none;
+    font-size: 20px;
+    padding: 12px;
+    transition: 0.2s;
+    border-radius: 10px 30px;
+    
+}
+
+.nav-ber a:hover{
+    background-color: #e48100;
+}
