@@ -57,5 +57,6 @@
 #img-aro{
     width: 124px;
     height: 86px;
-    
+    margin-right: -190px;
+    transition: 0.5s;
 }
