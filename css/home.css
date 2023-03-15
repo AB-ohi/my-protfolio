@@ -6,6 +6,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    margin-top: 20px;
 }
 /* btn edit */
 .cv-btn button{
@@ -26,13 +27,35 @@
     color: white;
 }
 
-.my-img{
-    z-index: 2;
+.pro-img img{
+    width: 90%;
+    padding: 5px;
+    transition: 0.5s;
 }
-.my-img-bg{
-    position: absolute;
-    right: 396px;
-    top: 66px;
-    z-index: -1;
-    transform: rotate(11deg);
+
+/* 
+.home img:hover{
+}
+.pro-img{
+    transition: 0.5s;
+    border-radius: 556px 882px 445px 271px;
+}
+.pro-img:hover{
+    background-color: #ffea00;
+    transform: rotate(-23deg);
+    /* transform: rotate(355deg); */
+/* } */
+
+
+.cv-btn h1{
+    color: #ffffff;
+    font-family: 'Caveat', cursive;
+    font-size: 60px;
+    margin-bottom: 50px;
+}
+
+#img-aro{
+    width: 124px;
+    height: 86px;
+    
 }
