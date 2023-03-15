@@ -1,0 +1,13 @@
+.about-me{
+    color: white;
+    margin-top: 100px;
+}
+
+.about-me h1{
+    text-align: center; 
+}
+
+.about-me p{
+    text-align: center;
+    margin-top: 30px;
+}

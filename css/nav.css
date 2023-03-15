@@ -1,6 +1,7 @@
 body{
     background-color: #3b0063;
-    background-image: url("../img/background.png");
+    background-image: linear-gradient(90deg, rgba(2,0,36,0.7259278711484594) 0%, rgba(127,23,196,0.6895133053221288) 39%, rgba(1,64,196,0.4598214285714286) 100%), url("../img/background.png");
+    
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
